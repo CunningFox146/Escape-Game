@@ -1,0 +1,10 @@
+#Unreal generated files
+
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+#VS generated files
+*.VS.db
